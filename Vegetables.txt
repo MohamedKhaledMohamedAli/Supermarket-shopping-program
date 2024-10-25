@@ -1,0 +1,7 @@
+1. Carrot $0.80
+2. Broccoli $1.30
+3. Spinach $1.10
+4. Bell pepper $1.50
+5. Tomato $0.70
+6. Cucumber $0.90
+7. Onion $0.60

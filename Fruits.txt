@@ -1,0 +1,7 @@
+1. Apple $1.20
+2. Banana $0.50
+3. Orange $0.90
+4. Mango $1.50
+5. Grapes $2.00
+6. Pineapple $3.00
+7. Watermelon $4.50
